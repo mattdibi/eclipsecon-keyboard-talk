@@ -2,7 +2,15 @@
 
 These slides are using [Marp](https://marp.app/) Markdown Presentation Ecosystem. Usage documentation can be found [here](https://marpit.marp.app/).
 
-For building the slides in this repository using the [official Docker image](https://hub.docker.com/r/marpteam/marp-cli/) use the following:
+For building the slides in this repository using the [official Docker image](https://hub.docker.com/r/marpteam/marp-cli/) use the following commands:
+
+```bash
+git clone https://github.com/mattdibi/eclipsecon-keyboard-talk.git
+```
+
+```bash
+cd path/to/eclipsecon-keyboard-talk
+```
 
 ```bash
 # Convert slide deck into HTML
