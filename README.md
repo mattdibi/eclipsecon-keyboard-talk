@@ -17,6 +17,8 @@ cd path/to/eclipsecon-keyboard-talk
 docker run --rm -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli --bespoke.transition --bespoke.progress --preview slides.md
 ```
 
+or
+
 ```bash
 # Server mode (Serve current directory in http://localhost:8080/)
 docker run --rm --init -v $PWD:/home/marp/app -e LANG=$LANG -p 8080:8080 -p 37717:37717 marpteam/marp-cli --bespoke.transition --bespoke.progress -s .
