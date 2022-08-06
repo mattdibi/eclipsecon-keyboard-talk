@@ -10,23 +10,31 @@ transition: fade
 
 ![bg cover brightness:0.75](media/uwldcrj8vca91.jpg)
 
-**34 keys is all you need**: 
+## 34 keys is all you need: 
 A mechanical keyboard journey
 
 <!-- HTML comment recognizes as a presenter note per pages. -->
 <!-- You may place multiple comments in a single page. -->
 
-<!-- _footer: Mattia Dal Ben -->
+<!-- _footer: Author: Mattia Dal Ben -->
+<!-- _paginate: false -->
 
 ---
-
-![bg left 85%](media/GX4YHD4.jpeg)
 
 ####  Who am I?
 
 - Master degree in EE
-- Working as SWE @ Eurotech
-- Designed few popular keyboard designs: Redox, Redox Wireless, Yampad
+- Work as SWE @ Eurotech
+- Mechanical keyboard enthusiast and maker
+- Designed the Redox Keyboard and Yampad
+
+![bg right](media/GX4YHD4.jpeg)
+
+---
+
+![bg vertical](media/redox-1.jpg)
+![bg](media/GX4YHD4.jpeg)
+![bg](media/yampad.jpg)
 
 ---
 
