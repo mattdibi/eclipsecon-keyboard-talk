@@ -6,7 +6,7 @@ For building the slides in this repository using the [official Docker image](htt
 
 ```bash
 # Convert slide deck into HTML
-docker run --rm -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli slides.md
+docker run --rm -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli --bespoke.transition --bespoke.progress --preview slides.md
 ```
 
 ```bash
