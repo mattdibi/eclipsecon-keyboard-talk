@@ -13,10 +13,6 @@ transition: fade
 ## <!--fit--> 34 keys is all you need 
 _An ergonomic mechanical keyboard journey_
 
-
-<!-- HTML comment recognizes as a presenter note per pages. -->
-<!-- You may place multiple comments in a single page. -->
-
 <!-- _footer: Author: Mattia Dal Ben -->
 <!-- _paginate: false -->
 
@@ -46,7 +42,7 @@ _An ergonomic mechanical keyboard journey_
 
 <!--
 * We're not gonna talk about your average custom mechanical keyboard
-* We're gonna talk about small from factor (sub 40%), ergonomic, low profile (choc), open-source(mostly), mechanical keyboards
+* We're gonna talk about small from factor (sub 40% i.e. 35 keys), ergonomic, low profile (choc), open-source(mostly), mechanical keyboards
 * We're gonna talk about what firmware/software features/techniques make them a viable option (features that can be applied even to normal keyboards)
 * ... and, above all, **why** should you want to try them.
 -->
@@ -73,13 +69,20 @@ _An ergonomic mechanical keyboard journey_
 
 ---
 
-![bg cover](media/5d2653b1a17d6c0836373664.webp)
+![bg cover brightness:0.9](media/20220807_160901.jpg)
+
+<!--
+On the left you can see a Corona Model 4 that was introduced around 1920
+On the right a  2020 MacBook Air
+
+There's a century between these two and they use the same keyboard...
+-->
 
 ---
 
 # <!-- fit --> Why are we still stuck with this s***?
 
-![bg blur opacity cover](media/5d2653b1a17d6c0836373664.webp)
+![bg blur opacity cover](media/20220807_160901.jpg)
 
 <!--
 Keyboard design essentially didn't change since 1880 when typewrites appeared. We're burdened by design choices due to mechanical/physical constraints that no longer exist. Nobody even question it...
@@ -87,3 +90,81 @@ Keyboard design essentially didn't change since 1880 when typewrites appeared. W
 ... and this is stupid...
 -->
 
+---
+
+# <!-- fit --> Let's try and fix that
+
+---
+
+<!-- _class: lead --> 
+
+# Split
+
+![bg](./media/dantambok-superme-mechanical-keyboard.webp)
+
+<!--
+Ulnar deviation occurs when your wrist is bent outward in the direction of your little finger. It is among the most common and potentially damaging keyboard postures and can lead to carpal tunnel syndrome and other serious repetitive strain injuries.
+
+Your wrist are not built to bend like that. Split the keyboard to have a more natural posture.
+-->
+
+---
+
+<!-- _class: lead --> 
+
+# Thumb cluster
+
+![bg](./media/Dygma-Raise-Split-Gaming-Keyboard-3.png)
+
+<!--
+Why is your strongest finger used to press only a key? This is dumb. Give it more keys!
+-->
+
+---
+
+<!-- _class: lead --> 
+
+# Columnar stagger
+
+![bg](./media/redox-1.jpg)
+
+<!--
+The row staggered layout is a heritage from the old typewriters that needed such an arrangement to prevent the percussors to get stuck. Such a design is not needed anymore and doesn't fit with the human hand conformation.
+-->
+
+---
+
+# Minimal
+
+![bg](./media/1wubhh0.jpeg)
+
+> "We are moving our keys to the fingers, we're not moving our fingers to the keys"
+
+<!--
+- Less distance between keys (minimal key travel) means fewer errors
+- Less hand repositioning which means fewer errors (I found that most of my mistakes were due to repositioning my hand after moving away from the home row, these can't exists if you're always on the home row) Example of annoying movements: home row -> esc, home row -> arrow keys
+- Improving typing habits: I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. With the miryoku layout I am forced to use the index and to alternate between left and right hand (which is the correct way of doing it).
+- The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered (and *actually started using*) the alt/cmd+backspace combinations which improved my typing habits again. This is now ingrained in my muscle memory and use it everywhere (like the alt+cmd arrow keys).
+- Due to their placement (home-row mods) shortcuts are so much easier to type (see iTerm2 tab/split change)
+- Portability (duh!)
+- It is **fun**
+-->
+
+---
+
+# Key wells and tenting
+
+![bg](./media/skeletyl.jpg)
+
+
+<!--
+Pronation in the forearm and wrist occurs when typing with your palms face down towards the worksurface. The majority of this turning involves the rotation of both forearm bones (ulna and radius).
+
+Sustained pronation puts pressure on the forearm muscles and tissues which reduces blood circulation and can lead to fatigue and repetitive strain injuries (“RSI”). Research demonstrates that a moderate elevation of the thumb side of the hand dramatically reduces the pressure on the forearm muscles.
+
+The concave key wells ensure the keys are reachable and mimic the curve drawn by our fingers.
+-->
+
+---
+
+# <!-- fit --> 2. Software
