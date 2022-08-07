@@ -96,11 +96,11 @@ Keyboard design essentially didn't change since 1880 when typewrites appeared. W
 
 ---
 
-<!-- _class: lead --> 
+# Split halves
 
-# Split
+> "Your wrist are not built to bend like that. Split the keyboard to have a more natural posture."
 
-![bg](./media/dantambok-superme-mechanical-keyboard.webp)
+![bg opacity:0.8 blur](./media/dantambok-superme-mechanical-keyboard.webp)
 
 <!--
 Ulnar deviation occurs when your wrist is bent outward in the direction of your little finger. It is among the most common and potentially damaging keyboard postures and can lead to carpal tunnel syndrome and other serious repetitive strain injuries.
@@ -110,11 +110,15 @@ Your wrist are not built to bend like that. Split the keyboard to have a more na
 
 ---
 
-<!-- _class: lead --> 
+![bg](./media/dantambok-superme-mechanical-keyboard.webp)
+
+---
 
 # Thumb cluster
 
-![bg](./media/Dygma-Raise-Split-Gaming-Keyboard-3.png)
+> "Why is your strongest finger used to press only a key?"
+
+![bg opacity:0.8 blur](./media/Dygma-Raise-Split-Gaming-Keyboard-3.png)
 
 <!--
 Why is your strongest finger used to press only a key? This is dumb. Give it more keys!
@@ -122,11 +126,15 @@ Why is your strongest finger used to press only a key? This is dumb. Give it mor
 
 ---
 
-<!-- _class: lead --> 
+![bg](./media/Dygma-Raise-Split-Gaming-Keyboard-3.png)
+
+---
 
 # Columnar stagger
 
-![bg](./media/redox-1.jpg)
+> "The row staggered layout is a heritage from the old typewriters that needed such an arrangement to prevent the percussors to get stuck."
+
+![bg opacity:0.8 blur](./media/redox-1.jpg)
 
 <!--
 The row staggered layout is a heritage from the old typewriters that needed such an arrangement to prevent the percussors to get stuck. Such a design is not needed anymore and doesn't fit with the human hand conformation.
@@ -134,11 +142,15 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 ---
 
+![bg](./media/redox-1.jpg)
+
+---
+
 # Minimal
 
-![bg](./media/1wubhh0.jpeg)
-
 > "We are moving our keys to the fingers, we're not moving our fingers to the keys"
+
+![bg opacity:0.8 blur](./media/1wubhh0.jpeg)
 
 <!--
 - Less distance between keys (minimal key travel) means fewer errors
@@ -152,10 +164,17 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 ---
 
+![bg](./media/1wubhh0.jpeg)
+
+---
+
 # Key wells and tenting
 
-![bg](./media/skeletyl.jpg)
+> "A moderate elevation of the thumb side of the hand dramatically reduces the pressure on the forearm muscles."
 
+> "The concave key wells ensure the keys are reachable and mimic the curve drawn by our fingers."
+
+![bg opacity:0.8 blur](./media/skeletyl.jpg)
 
 <!--
 Pronation in the forearm and wrist occurs when typing with your palms face down towards the worksurface. The majority of this turning involves the rotation of both forearm bones (ulna and radius).
@@ -164,6 +183,10 @@ Sustained pronation puts pressure on the forearm muscles and tissues which reduc
 
 The concave key wells ensure the keys are reachable and mimic the curve drawn by our fingers.
 -->
+
+---
+
+![bg](./media/skeletyl.jpg)
 
 ---
 
