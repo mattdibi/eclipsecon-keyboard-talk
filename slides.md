@@ -69,7 +69,7 @@ _An ergonomic mechanical keyboard journey_
 
 ---
 
-![bg cover brightness:0.9](media/20220807_160901.jpg)
+![bg cover brightness:0.9](media/hardware/20220807_160901.jpg)
 
 <!--
 On the left you can see a Corona Model 4 that was introduced around 1920
@@ -82,7 +82,7 @@ There's a century between these two and they use the same keyboard...
 
 # <!-- fit --> Why are we still stuck with this s***?
 
-![bg blur opacity cover](media/20220807_160901.jpg)
+![bg blur opacity cover](media/hardware/20220807_160901.jpg)
 
 <!--
 Keyboard design essentially didn't change since 1880 when typewrites appeared. We're burdened by design choices due to mechanical/physical constraints that no longer exist. Nobody even question it...
@@ -100,7 +100,7 @@ Keyboard design essentially didn't change since 1880 when typewrites appeared. W
 
 > "Your wrist are not built to bend like that. Split the keyboard to have a more natural posture."
 
-![bg opacity:0.8 blur](./media/dantambok-superme-mechanical-keyboard.webp)
+![bg opacity:0.8 blur](./media/hardware/dantambok-superme-mechanical-keyboard.webp)
 
 <!--
 Ulnar deviation occurs when your wrist is bent outward in the direction of your little finger. It is among the most common and potentially damaging keyboard postures and can lead to carpal tunnel syndrome and other serious repetitive strain injuries.
@@ -110,7 +110,7 @@ Your wrist are not built to bend like that. Split the keyboard to have a more na
 
 ---
 
-![bg](./media/dantambok-superme-mechanical-keyboard.webp)
+![bg](./media/hardware/dantambok-superme-mechanical-keyboard.webp)
 
 ---
 
@@ -118,7 +118,7 @@ Your wrist are not built to bend like that. Split the keyboard to have a more na
 
 > "Why is your strongest finger used to press only a key?"
 
-![bg opacity:0.8 blur](./media/Dygma-Raise-Split-Gaming-Keyboard-3.png)
+![bg opacity:0.8 blur](./media/hardware/Dygma-Raise-Split-Gaming-Keyboard-3.png)
 
 <!--
 Why is your strongest finger used to press only a key? This is dumb. Give it more keys!
@@ -126,7 +126,7 @@ Why is your strongest finger used to press only a key? This is dumb. Give it mor
 
 ---
 
-![bg](./media/Dygma-Raise-Split-Gaming-Keyboard-3.png)
+![bg](./media/hardware/Dygma-Raise-Split-Gaming-Keyboard-3.png)
 
 ---
 
@@ -134,7 +134,7 @@ Why is your strongest finger used to press only a key? This is dumb. Give it mor
 
 > "The row staggered layout is a heritage from the old typewriters that needed such an arrangement to prevent the percussors to get stuck."
 
-![bg opacity:0.8 blur](./media/redox-1.jpg)
+![bg opacity:0.8 blur](./media/hardware/redox-1.jpg)
 
 <!--
 The row staggered layout is a heritage from the old typewriters that needed such an arrangement to prevent the percussors to get stuck. Such a design is not needed anymore and doesn't fit with the human hand conformation.
@@ -142,7 +142,7 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 ---
 
-![bg](./media/redox-1.jpg)
+![bg](./media/hardware/redox-1.jpg)
 
 ---
 
@@ -150,7 +150,7 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 > "We are moving our keys to the fingers, we're not moving our fingers to the keys"
 
-![bg opacity:0.8 blur](./media/1wubhh0.jpeg)
+![bg opacity:0.8 blur](./media/hardware/1wubhh0.jpeg)
 
 <!--
 - Less distance between keys (minimal key travel) means fewer errors
@@ -164,7 +164,7 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 ---
 
-![bg](./media/1wubhh0.jpeg)
+![bg](./media/hardware/1wubhh0.jpeg)
 
 ---
 
@@ -174,7 +174,7 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 > "The concave key wells ensure the keys are reachable and mimic the curve drawn by our fingers."
 
-![bg opacity:0.8 blur](./media/skeletyl.jpg)
+![bg opacity:0.8 blur](./media/hardware/skeletyl.jpg)
 
 <!--
 Pronation in the forearm and wrist occurs when typing with your palms face down towards the worksurface. The majority of this turning involves the rotation of both forearm bones (ulna and radius).
@@ -186,7 +186,7 @@ The concave key wells ensure the keys are reachable and mimic the curve drawn by
 
 ---
 
-![bg](./media/skeletyl.jpg)
+![bg](./media/hardware/skeletyl.jpg)
 
 ---
 
