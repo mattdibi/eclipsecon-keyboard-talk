@@ -12,14 +12,14 @@ git clone https://github.com/mattdibi/eclipsecon-keyboard-talk.git
 cd path/to/eclipsecon-keyboard-talk
 ```
 
+Convert slide deck into HTML:
+
 ```bash
-# Convert slide deck into HTML
 docker run --rm -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli --bespoke.transition --bespoke.progress --preview slides.md
 ```
 
-or
+or use server mode (serve current directory in http://localhost:8080/)
 
 ```bash
-# Server mode (Serve current directory in http://localhost:8080/)
 docker run --rm --init -v $PWD:/home/marp/app -e LANG=$LANG -p 8080:8080 -p 37717:37717 marpteam/marp-cli --bespoke.transition --bespoke.progress -s .
 ```
