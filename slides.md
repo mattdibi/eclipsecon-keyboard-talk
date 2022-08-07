@@ -11,7 +11,7 @@ transition: fade
 ![bg cover brightness:0.75](media/uwldcrj8vca91.jpg)
 
 ## 34 keys is all you need: 
-A mechanical keyboard journey
+An ergonomic mechanical keyboard journey
 
 <!-- HTML comment recognizes as a presenter note per pages. -->
 <!-- You may place multiple comments in a single page. -->
@@ -28,13 +28,7 @@ A mechanical keyboard journey
 - Mechanical keyboard enthusiast and maker
 - Designed the Redox Keyboard and Yampad
 
-![bg right](media/GX4YHD4.jpeg)
-
----
-
-![bg vertical](media/redox-1.jpg)
-![bg](media/GX4YHD4.jpeg)
-![bg](media/yampad.jpg)
+![bg right](media/yampad.jpg)
 
 ---
 
@@ -46,3 +40,18 @@ A mechanical keyboard journey
 * ... and, above all, **why** should you want to try them.
 
 ---
+
+### Talk outline
+
+1) _Hardware_
+2) _Software_
+3) _Layout_
+4) _Miryoku_
+
+<!-- 
+1. _Hardware_: Advancement on keyboard physical layout.
+2. _Software_: New features that make such keyboards viable
+3. _Layout_: QWERTY is bad basically
+4. _Miryoku_: Let's put it all together
+-->
+
