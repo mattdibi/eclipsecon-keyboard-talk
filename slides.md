@@ -8,10 +8,11 @@ author: Mattia Dal Ben
 transition: fade
 ---
 
-![bg cover brightness:0.75](media/uwldcrj8vca91.jpg)
+![bg cover opacity:.7 blur:1px](media/uwldcrj8vca91.jpg)
 
-## 34 keys is all you need: 
-An ergonomic mechanical keyboard journey
+## <!--fit--> 34 keys is all you need 
+_An ergonomic mechanical keyboard journey_
+
 
 <!-- HTML comment recognizes as a presenter note per pages. -->
 <!-- You may place multiple comments in a single page. -->
