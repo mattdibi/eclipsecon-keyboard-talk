@@ -178,7 +178,7 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 > "The concave key wells ensure the keys are reachable and mimic the curve drawn by our fingers."
 
-![bg opacity blur](./media/hardware/skeletyl.jpg)
+![bg opacity blur](./media/hardware/skeletyl.webp)
 
 <!--
 Pronation in the forearm and wrist occurs when typing with your palms face down towards the worksurface. The majority of this turning involves the rotation of both forearm bones (ulna and radius).
@@ -190,7 +190,7 @@ The concave key wells ensure the keys are reachable and mimic the curve drawn by
 
 ---
 
-![bg](./media/hardware/skeletyl.jpg)
+![bg](./media/hardware/skeletyl.webp)
 
 ---
 
