@@ -266,4 +266,103 @@ ul {
 - QMK https://docs.qmk.fm/#/tap_hold
 - ZMK https://zmk.dev/docs/behaviors/hold-tap
 
+![bg right:33%](https://via.placeholder.com/250x750)
+
+---
+
+<style scoped>
+ul {
+  font-size: 0.6em;
+}
+</style>
+
+# Mod-Tap
+
+> The Mod-Tap behavior either acts as a held modifier, or as a tapped keycode.
+
+- QMK https://docs.qmk.fm/#/mod_tap
+- ZMK https://zmk.dev/docs/behaviors/mod-tap
+
 ![bg right:33%  70%](./media/firmware/hold-tap.gif)
+
+<!--
+If you think about it, it is the perfect application: modifiers keys (ctrl, alt, command) are rarely pressed by themselves. They're *modifiers* after all.
+-->
+
+---
+
+<style scoped>
+ul {
+  font-size: 0.6em;
+}
+</style>
+
+![w:1100](./media/firmware/home_mods.png)
+
+# Home row mods
+
+> In simple terms, hom row mods are the main modifier keys (namely Ctrl, Option/Alt, Command and Shift) on the home row of they keyboard set as Mod-taps.
+
+- Great article: https://precondition.github.io/home-row-mods
+
+---
+
+<style scoped>
+ul {
+  font-size: 0.6em;
+}
+</style>
+
+# Layer-tap
+
+> The "layer-tap" behavior enables a layer when a key is held, and outputs a keypress when the key is only tapped for a short time.
+
+- QMK https://docs.qmk.fm/#/feature_layers?id=switching-and-toggling-layers
+- ZMK https://zmk.dev/docs/behaviors/layers#layer-tap
+
+![bg right:33%](https://via.placeholder.com/250x750)
+
+<!--
+We talked about layers, the key for switching layers is another good target for the Hold-tap behaviour. It is pretty much identical to the Modifiers in the sense that they're rarely pressed by themselves.
+
+This creates a lot more room for placing this kind of keys on the keyboard: you don't need a dedicated key for layer switching anymore, you can place it wherever you want.
+-->
+
+---
+
+<style scoped>
+ul {
+  font-size: 0.6em;
+}
+</style>
+
+# Combos
+
+> Combo keys are a way to combine multiple keypresses to output a different key. For example, you can hit the Q and W keys on your keyboard to output escape.
+
+- QMK https://github.com/qmk/qmk_firmware/blob/master/docs/feature_combo.md
+- ZMK https://zmk.dev/docs/features/combos
+
+![bg right:33%](https://via.placeholder.com/250x750)
+
+<!--
+What if, instead of needing a dedicated caps lock button, you could just press the two shift keys together?
+-->
+
+---
+
+# More advanced features
+
+- Leader key
+- Conditional layers
+- Tap dance
+- Caps word
+- and so on...
+
+<!--
+There's a lot more than this that you can achieve with these firmwares
+-->
+
+---
+
+# <!-- fit --> 3. Layout
