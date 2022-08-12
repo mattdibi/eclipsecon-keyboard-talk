@@ -69,6 +69,12 @@ _An ergonomic mechanical keyboard journey_
 
 ---
 
+<style scoped>
+ul {
+  font-size: 0.6em;
+}
+</style>
+
 - Top: Corona Model 4 1920 ca.
 - Bottom: Macbook Air 2020 ca.
 
