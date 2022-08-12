@@ -69,7 +69,7 @@ _An ergonomic mechanical keyboard journey_
 
 ---
 
-![bg cover brightness:0.9](media/hardware/20220807_160901.jpg)
+![bg cover brightness:0.9](./media/hardware/20220812_094910.jpg)
 
 <!--
 On the left you can see a Corona Model 4 that was introduced around 1920
@@ -82,7 +82,7 @@ There's a century between these two and they use the same keyboard...
 
 # <!-- fit --> Why are we still stuck with this s***?
 
-![bg blur opacity cover](media/hardware/20220807_160901.jpg)
+![bg blur opacity cover](./media/hardware/20220812_094910.jpg)
 
 <!--
 Keyboard design essentially didn't change since 1880 when typewrites appeared. We're burdened by design choices due to mechanical/physical constraints that no longer exist. Nobody even question it...
