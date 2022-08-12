@@ -8,7 +8,7 @@ author: Mattia Dal Ben
 transition: fade
 ---
 
-![bg cover opacity:.7 blur:1px](media/uwldcrj8vca91.jpg)
+![bg cover opacity:.7](media/uwldcrj8vca91.jpg)
 
 ## <!--fit--> 34 keys is all you need 
 _An ergonomic mechanical keyboard journey_
