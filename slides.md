@@ -195,3 +195,45 @@ The concave key wells ensure the keys are reachable and mimic the curve drawn by
 ---
 
 # <!-- fit --> 2. Software
+
+---
+
+## Keyboard Firmwares
+
+> **QMK** (Quantum Mechanical Keyboard) Firmware is an open source (GPL-2.0) community centered around developing computer input devices. The community encompasses all sorts of input devices, such as keyboards, mice, and MIDI devices."
+
+> **ZMK** (Zephyr™ Mechanical Keyboard) Firmware is an open source (MIT) keyboard firmware built on the Zephyr™ Project Real Time Operating System (RTOS). ZMK's goal is to provide a modern, wireless, and powerful firmware free of licensing issues.
+
+
+<!--
+Keyboard firmware is the software running on the microcontrollers, responsible for scanning the matrix state and reporting which keys are being pressed to the OS. Sounds pretty straightforward right? Wrong.
+
+In the keyboard enthusiast space we have mainly two projects for this:
+- QMK: Quantum Mechanical Keyboard firmware. Which is a mature project with a lively ecosystem of sub-projects.
+- ZMK: Zephyr Mechanical Keyboard firmware. Which is relatively new but can support bluetooth.
+
+There are others (KMK, TMK) with their own merits but I'll discuss this right now.
+-->
+
+---
+
+## <!-- fit --> Custom Keyboard Firmwares features
+
+<!--
+With these tools we can program much more smart behaviours in our keyboards: some of you might be familiar with the concept of macros. Maybe ramapping keys in more comfortable places (the caps lock doesn't deserve the place it has on the keyboard) without the need to configure every OS you connect to.
+
+There are much more useful behaviours though that we'll discuss now. You should be able to find these feature in each of the previous firmwares.
+-->
+
+---
+
+# Layers
+
+WIP
+
+
+---
+
+# Hold-Tap
+
+![center](./media/firmware/hold-tap.gif)
