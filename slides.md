@@ -217,7 +217,15 @@ There are others (KMK, TMK) with their own merits but I'll discuss this right no
 
 ---
 
-## <!-- fit --> Custom Keyboard Firmwares features
+<style scoped>
+h1 {
+  font-size: 4.0em;
+}
+</style>
+
+## Keyboard Firmwares
+
+# Features
 
 <!--
 With these tools we can program much more smart behaviours in our keyboards: some of you might be familiar with the concept of macros. Maybe ramapping keys in more comfortable places (the caps lock doesn't deserve the place it has on the keyboard) without the need to configure every OS you connect to.
