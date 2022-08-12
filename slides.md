@@ -235,13 +235,35 @@ There are much more useful behaviours though that we'll discuss now. You should 
 
 ---
 
+<style scoped>
+ul {
+  font-size: 0.6em;
+}
+</style>
+
 # Layers
 
-WIP
+> ... this amounts to a function key that allows for different keys, much like what you would see on a laptop or tablet keyboard. 
 
+
+- QMK https://docs.qmk.fm/#/feature_layers
+- ZMK https://zmk.dev/docs/behaviors/layers
+
+![bg right:33%](https://via.placeholder.com/250x750)
 
 ---
 
+<style scoped>
+ul {
+  font-size: 0.6em;
+}
+</style>
+
 # Hold-Tap
 
-![center](./media/firmware/hold-tap.gif)
+> The hold-tap key will output the 'hold' behavior if it's held for a while, and output the 'tap' behavior when it's tapped quickly
+
+- QMK https://docs.qmk.fm/#/tap_hold
+- ZMK https://zmk.dev/docs/behaviors/hold-tap
+
+![bg right:33%  70%](./media/firmware/hold-tap.gif)
