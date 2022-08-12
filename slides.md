@@ -283,7 +283,7 @@ ul {
 - QMK https://docs.qmk.fm/#/mod_tap
 - ZMK https://zmk.dev/docs/behaviors/mod-tap
 
-![bg right:33%  70%](./media/firmware/hold-tap.gif)
+![bg right:33% 40%](./media/firmware/modtap.gif)
 
 <!--
 If you think about it, it is the perfect application: modifiers keys (ctrl, alt, command) are rarely pressed by themselves. They're *modifiers* after all.
