@@ -249,7 +249,7 @@ ul {
 - QMK https://docs.qmk.fm/#/feature_layers
 - ZMK https://zmk.dev/docs/behaviors/layers
 
-![bg right:33%](https://via.placeholder.com/250x750)
+![bg right:33% 85%](./media/firmware/layer.gif)
 
 ---
 
