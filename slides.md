@@ -266,7 +266,7 @@ ul {
 - QMK https://docs.qmk.fm/#/tap_hold
 - ZMK https://zmk.dev/docs/behaviors/hold-tap
 
-![bg right:33%](https://via.placeholder.com/250x750)
+![bg right:33% 40%](./media/firmware/holdtap.gif)
 
 ---
 
