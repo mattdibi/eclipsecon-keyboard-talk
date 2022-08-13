@@ -328,7 +328,7 @@ ul {
 - QMK https://docs.qmk.fm/#/feature_layers?id=switching-and-toggling-layers
 - ZMK https://zmk.dev/docs/behaviors/layers#layer-tap
 
-![bg right:33%](https://via.placeholder.com/250x750)
+![bg right:33% 85%](./media/firmware/layertap.gif)
 
 <!--
 We talked about layers, the key for switching layers is another good target for the Hold-tap behaviour. It is pretty much identical to the Modifiers in the sense that they're rarely pressed by themselves.
