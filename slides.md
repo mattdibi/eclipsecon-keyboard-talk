@@ -351,7 +351,7 @@ ul {
 - QMK https://github.com/qmk/qmk_firmware/blob/master/docs/feature_combo.md
 - ZMK https://zmk.dev/docs/features/combos
 
-![bg left:33% 85%](./media/firmware/combos.gif)
+![bg right:33% 85%](./media/firmware/combos.gif)
 
 <!--
 What if, instead of needing a dedicated caps lock button, you could just press the two shift keys together?
