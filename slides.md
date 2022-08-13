@@ -305,6 +305,10 @@ ul {
 
 - Great article: https://precondition.github.io/home-row-mods
 
+<!--
+Think about moving away from the home row as a cache miss: you incur in a higher latency when trying to write something
+-->
+
 ---
 
 <style scoped>
