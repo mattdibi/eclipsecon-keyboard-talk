@@ -268,6 +268,10 @@ ul {
 
 ![bg right:33% 40%](./media/firmware/holdtap.gif)
 
+<!--
+What if instead of reaching for the shift key we could just keep the key pressed a little bit longer? This technique is called "Autoshift" and leverages the Hold-tap behaviour as you can see here.
+-->
+
 ---
 
 <style scoped>
