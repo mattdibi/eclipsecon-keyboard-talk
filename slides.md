@@ -395,9 +395,22 @@ We covered all the feature and tachniques that can improve our keyboards. Let's 
 
 # Base layer
 
+![w:600](./media/miryoku/0_base/full_104.png)
+
+![w:600](./media/miryoku/0_base/miryoku-base-layer.drawio.png)
+
+<!--
+Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
+-->
+
+
+---
+
+# Base layer
+
 ![w:600](./media/miryoku/1_base/104_full.png)
 
-![](./media/miryoku/1_base/miryoku-base-layer.png)
+![w:600](./media/miryoku/1_base/miryoku-base-layer.png)
 
 <!--
 Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
@@ -409,4 +422,4 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 
 ![w:600](./media/miryoku/2_base/104_full.png)
 
-![](./media/miryoku/2_base/miryoku-base-layer.png)
+![w:600](./media/miryoku/2_base/miryoku-base-layer.png)
