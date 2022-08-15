@@ -480,6 +480,8 @@ Following the same principle, let's put the function keys in the same spots as t
 <!--
 On the right hand let's put our nav cluster and the arrow keys. If you prefer the usual inverted T layout for the arrows there's an option for that.
 
+"What about the leftover keys?" you might ask. Esc and Delete are actually on the thumbs under a "combo". If you press the two left thumb keys you'll get Esc, the right thumbs will output the Delete key. Num lock is simply unnecessary.
+
 And just like that: all the keys from a normal keyboard are covered. But we can do much much more.
 -->
 
