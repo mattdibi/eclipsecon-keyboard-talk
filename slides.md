@@ -403,7 +403,6 @@ We covered all the feature and tachniques that can improve our keyboards. Let's 
 Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
 -->
 
-
 ---
 
 # Base layer
@@ -413,7 +412,7 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 ![w:700](./media/miryoku/1_base/miryoku-base-layer.png)
 
 <!--
-Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
+Letters are where we expect them to be.
 -->
 
 ---
@@ -424,6 +423,12 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 
 ![w:700](./media/miryoku/2_base/miryoku-base-layer.png)
 
+<!--
+We talked about the fact that we should use our thumbs more, let's assign them the most used keys: space, backspace, return, and tab.
+
+Furthermore we'll need layers to fit everything into this keyboard, thumbs will be responsible for all the layer switching thanks to layer-tap we just talked about.
+-->
+
 ---
 
 # Base layer
@@ -431,6 +436,10 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 ![w:900](./media/miryoku/3_base/full_104.png)
 
 ![w:700](./media/miryoku/3_base/miryoku-base-layer.png)
+
+<!--
+To cover the mods we'll simply use the home-row mods we talked about in the previous slides
+-->
 
 ---
 
@@ -440,6 +449,14 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 
 ![w:700](./media/miryoku/0_num/miryoku-base-layer.png)
 
+<!--
+Let's start using our layers then:
+
+Let's start by putting the numbers on the left hand in a numpad layout so that it's easy to remember. To access symbols we can simply press shift or access a shortcut layer called Symbol layers.
+
+Symbols are the same as reported in the num row, so nothing has changed from the normal keyboard. Nothing new to learn.
+-->
+
 ---
 
 # Fun layer
@@ -448,6 +465,10 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 
 ![w:700](./media/miryoku/0_fun/miryoku-base-layer.png)
 
+<!--
+Following the same principle, let's put the function keys in the same spots as the number layer in a layer on their own. We already know where most of our keys are located.
+-->
+
 ---
 
 # Nav layer
@@ -455,6 +476,12 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 ![w:900](./media/miryoku/0_nav/full_104.png)
 
 ![w:700](./media/miryoku/0_nav/miryoku-base-layer.png)
+
+<!--
+On the right hand let's put our nav cluster and the arrow keys. If you prefer the usual inverted T layout for the arrows there's an option for that.
+
+And just like that: all the keys from a normal keyboard are covered. But we can do much much more.
+-->
 
 ---
 
