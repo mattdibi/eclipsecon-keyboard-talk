@@ -491,7 +491,6 @@ p {
 }
 </style>
 
-
 # The Miryoku layout
 
 ![fit center](./media/miryoku/miryoku-kle-cover.png)
