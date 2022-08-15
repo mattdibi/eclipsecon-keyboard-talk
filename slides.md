@@ -374,3 +374,39 @@ There's a lot more than this that you can achieve with these firmwares
 ---
 
 # <!-- fit --> 3. Layout
+
+---
+
+[WIP]
+
+---
+
+# <!-- fit --> 4. Miryoku
+
+---
+
+# Let's put it all together now
+
+<!--
+We covered all the feature and tachniques that can improve our keyboards. Let's put it all together now
+-->
+
+---
+
+# Base layer
+
+![w:600](./media/miryoku/1_base/104_full.png)
+
+![](./media/miryoku/1_base/miryoku-base-layer.png)
+
+<!--
+Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
+-->
+
+---
+
+# Base layer
+
+![w:600](./media/miryoku/2_base/104_full.png)
+
+![](./media/miryoku/2_base/miryoku-base-layer.png)
