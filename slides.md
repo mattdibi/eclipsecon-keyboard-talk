@@ -395,66 +395,66 @@ We covered all the feature and tachniques that can improve our keyboards. Let's 
 
 # Base layer
 
-![w:600](./media/miryoku/0_base/full_104.png)
+![w:900](./media/miryoku/0_base/full_104.png)
 
-![w:600](./media/miryoku/0_base/miryoku-base-layer.drawio.png)
-
-<!--
-Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
--->
-
-
----
-
-# Base layer
-
-![w:600](./media/miryoku/1_base/104_full.png)
-
-![w:600](./media/miryoku/1_base/miryoku-base-layer.png)
+![w:700](./media/miryoku/0_base/miryoku-base-layer.drawio.png)
 
 <!--
 Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
 -->
 
----
-
-# Base layer
-
-![w:600](./media/miryoku/2_base/104_full.png)
-
-![w:600](./media/miryoku/2_base/miryoku-base-layer.png)
 
 ---
 
 # Base layer
 
-![w:600](./media/miryoku/3_base/full_104.png)
+![w:900](./media/miryoku/1_base/104_full.png)
 
-![w:600](./media/miryoku/3_base/miryoku-base-layer.png)
+![w:700](./media/miryoku/1_base/miryoku-base-layer.png)
+
+<!--
+Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
+-->
+
+---
+
+# Base layer
+
+![w:900](./media/miryoku/2_base/104_full.png)
+
+![w:700](./media/miryoku/2_base/miryoku-base-layer.png)
+
+---
+
+# Base layer
+
+![w:900](./media/miryoku/3_base/full_104.png)
+
+![w:700](./media/miryoku/3_base/miryoku-base-layer.png)
 
 ---
 
 # Num layer
 
-![w:600](./media/miryoku/0_num/full_104.png)
+![w:900](./media/miryoku/0_num/full_104.png)
 
-![w:600](./media/miryoku/0_num/miryoku-base-layer.png)
+![w:700](./media/miryoku/0_num/miryoku-base-layer.png)
 
 ---
 
 # Fun layer
 
-![w:600](./media/miryoku/0_fun/full_104.png)
+![w:900](./media/miryoku/0_fun/full_104.png)
 
-![w:600](./media/miryoku/0_fun/miryoku-base-layer.png)
+![w:700](./media/miryoku/0_fun/miryoku-base-layer.png)
 
 ---
 
 # Nav layer
 
-![w:600](./media/miryoku/0_nav/full_104.png)
+![w:900](./media/miryoku/0_nav/full_104.png)
 
-![w:600](./media/miryoku/0_nav/miryoku-base-layer.png)
+![w:700](./media/miryoku/0_nav/miryoku-base-layer.png)
 
 ---
 
@@ -470,5 +470,3 @@ p {
 ![fit center](./media/miryoku/miryoku-kle-cover.png)
 
 Docs: https://github.com/manna-harbour/miryoku
-
----
