@@ -375,9 +375,78 @@ There's a lot more than this that you can achieve with these firmwares
 
 # <!-- fit --> 3. Layout
 
+<!--
+No talk about keyboards would be complete without talking about the QWERTY layout.
+
+Unfortunately I'm not that knowledgable on alternative layout so I'll cover just the basics.
+-->
+
 ---
 
-[WIP]
+## What's wrong with QWERTY?
+
+![w:800](./media/layout/qwerty_layout.jpg)
+
+<style scoped>
+p {
+  font-size: 0.6em;
+}
+</style>
+
+Paper: ["On the Prehistory of QWERTY"](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf)
+
+<!--
+What's wrong with QWERTY?
+
+Why was it designed this way?
+
+First let's address a common misconception: allegedly the QWERTY layout was designed to avoid common bi-grams (frequently used character couples in the language) to clash the typewriter percussors i.e. it was designed to slow down fast typist to avoid the typewriter to jam.
+
+During the research for my talk I discovered that this fact was actually debunked by a group of Japanese researchers and that the QWERTY design stems from the use of the typewriter by telegraph operators (which were the first users of this new technology).
+
+Frankly speaking, I don't think the explaination got better.
+
+For instance: at the time they used to use the letter "I" to write the number "1". They decided to move it near the "8" to write the date faster (1870). Likewise they put "s", "z", "e" together because they usually got confused in the American Morse Code.
+
+In the end we're still using a layout that was design for the needs of the 19th century, we're in the 21st now!
+-->
+
+---
+
+# Can we do better?
+
+### Dvorak layout
+
+![w:800](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KB_United_States_Dvorak.svg/1280px-KB_United_States_Dvorak.svg.png)
+
+---
+
+<style scoped>
+p {
+  font-size: 0.6em;
+}
+</style>
+
+# Can we do better?
+
+> We have seen that the DVORAK layout does produce better typing speed performance than the QWERTY keyboard, **but that this difference is just 4 or 5%**. When we look at the history of the typewriter we can assume that people are not willing to switch to this superior design: **the gain is too small compared to the costs of retraining**.
+> The major feature of Dvorak’s DSK, however, is its optimised key placement. The DSK is designed for touch typing and **significantly reduces finger movement and thus typists’ fatigue**. Though this ergonomic feature has been pointed out in many different studies –and in fact is quite evident– this has not convinced the general public that they are better of with the DVORAK layout.
+
+Paper: ["Comparing different keyboard layout aspects of QWERTY DVORAK and alphabetical keyboards"](https://www.researchgate.net/profile/Pieter-Buzing/publication/252214871_Comparing_Different_Keyboard_Layouts_Aspects_of_QWERTY_DVORAK_and_alphabetical_keyboards/links/60c3123c4585157774c7fd96/Comparing-Different-Keyboard-Layouts-Aspects-of-QWERTY-DVORAK-and-alphabetical-keyboards.pdf?origin=publication_detail)
+
+---
+
+### Colemak layout
+
+![w:800](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/KB_US-Colemak.svg/1280px-KB_US-Colemak.svg.png)
+
+> Coleman states that he designed Colemak to be easy to learn, explaining that Dvorak is hard for QWERTY typists to learn due to it being so different from the QWERTY layout.
+
+<!--
+Colemak layout tries to address the issues with the Dvorak layout, preserving its efficiency and design principles.
+
+Unfortunately it's still considered an exotic layout and its adoption is quite small
+-->
 
 ---
 
@@ -498,3 +567,9 @@ p {
 ![fit center](./media/miryoku/miryoku-kle-cover.png)
 
 Docs: https://github.com/manna-harbour/miryoku
+
+---
+
+# Conclusions
+
+[WIP]
