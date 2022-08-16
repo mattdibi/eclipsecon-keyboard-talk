@@ -116,6 +116,8 @@ Your wrist are not built to bend like that. Split the keyboard to have a more na
 
 ![bg](./media/hardware/dantambok-superme-mechanical-keyboard.webp)
 
+<!-- _footer: Pic: Taobao Supreme (Superme) 65% Split keyboard -->
+
 ---
 
 # Thumb cluster
@@ -132,6 +134,8 @@ Why is your strongest finger used to press only a key? This is dumb. Give it mor
 
 ![bg](./media/hardware/Dygma-Raise-Split-Gaming-Keyboard-3.png)
 
+<!-- _footer: Pic: Dygma Raise -->
+
 ---
 
 # Columnar stagger
@@ -147,6 +151,8 @@ The row staggered layout is a heritage from the old typewriters that needed such
 ---
 
 ![bg](./media/hardware/redox-1.jpg)
+
+<!-- _footer: Pic: Redox -->
 
 ---
 
@@ -170,6 +176,8 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 ![bg](./media/hardware/1wubhh0.jpeg)
 
+<!-- _footer: Pic: Corne -->
+
 ---
 
 # Key wells and tenting
@@ -191,6 +199,8 @@ The concave key wells ensure the keys are reachable and mimic the curve drawn by
 ---
 
 ![bg](./media/hardware/skeletyl.webp)
+
+<!-- _footer: Pic: Skeletyl -->
 
 ---
 
