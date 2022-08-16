@@ -583,19 +583,19 @@ Docs: https://github.com/manna-harbour/miryoku
 
 # Personal experience
 
-It's been a year since I adopted the Miryoku layout. Here's my feedback:
-
 * It improved my typing habits
 * The "limitations" of this keyboard made me discover new *improved* typing habits
 * Shortcuts are *so much more comfortable to type*
 * Improved symbols access
-* **It is FUN**
+* I've yet to encounter a key combination that I cannot type
+* It is **FUN**
 
 <!--
 - I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. With the miryoku layout I am forced to use the index and to alternate between left and right hand (which is the correct way of doing it).
 - The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered (and *actually started using*) the alt/cmd+backspace combinations which improved my typing habits again. This is now ingrained in my muscle memory and use it everywhere (like the alt+cmd arrow keys).
 - Due to their placement (home-row mods) shortcuts are so much easier to type (see iTerm2 tab/split change)
 - Accessing symbols is much easier now since I no longer need to reposition my hands and thus I'm using Vim command that depends on these symbols (%, $, {) much more frequently.
+- I've yet to encounter a key combination that I cannot type
 - It is **fun**
 -->
 
