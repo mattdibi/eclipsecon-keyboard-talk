@@ -393,7 +393,7 @@ p {
 }
 </style>
 
-Paper: ["On the Prehistory of QWERTY"](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf)
+["On the Prehistory of QWERTY"](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf)
 
 <!--
 What's wrong with QWERTY?
@@ -417,7 +417,7 @@ In the end we're still using a layout that was design for the needs of the 19th 
 
 ### Dvorak layout
 
-![w:800](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KB_United_States_Dvorak.svg/1280px-KB_United_States_Dvorak.svg.png)
+![w:800](./media/layout/dvorak_layout.png)
 
 ---
 
@@ -430,15 +430,16 @@ p {
 # Can we do better?
 
 > We have seen that the DVORAK layout does produce better typing speed performance than the QWERTY keyboard, **but that this difference is just 4 or 5%**. When we look at the history of the typewriter we can assume that people are not willing to switch to this superior design: **the gain is too small compared to the costs of retraining**.
+
 > The major feature of Dvorak’s DSK, however, is its optimised key placement. The DSK is designed for touch typing and **significantly reduces finger movement and thus typists’ fatigue**. Though this ergonomic feature has been pointed out in many different studies –and in fact is quite evident– this has not convinced the general public that they are better of with the DVORAK layout.
 
-Paper: ["Comparing different keyboard layout aspects of QWERTY DVORAK and alphabetical keyboards"](https://www.researchgate.net/profile/Pieter-Buzing/publication/252214871_Comparing_Different_Keyboard_Layouts_Aspects_of_QWERTY_DVORAK_and_alphabetical_keyboards/links/60c3123c4585157774c7fd96/Comparing-Different-Keyboard-Layouts-Aspects-of-QWERTY-DVORAK-and-alphabetical-keyboards.pdf?origin=publication_detail)
+["Comparing different keyboard layout aspects of QWERTY DVORAK and alphabetical keyboards"](https://www.researchgate.net/profile/Pieter-Buzing/publication/252214871_Comparing_Different_Keyboard_Layouts_Aspects_of_QWERTY_DVORAK_and_alphabetical_keyboards/links/60c3123c4585157774c7fd96/Comparing-Different-Keyboard-Layouts-Aspects-of-QWERTY-DVORAK-and-alphabetical-keyboards.pdf?origin=publication_detail)
 
 ---
 
 ### Colemak layout
 
-![w:800](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/KB_US-Colemak.svg/1280px-KB_US-Colemak.svg.png)
+![w:800](./media/layout/colemak_layout.png)
 
 > Coleman states that he designed Colemak to be easy to learn, explaining that Dvorak is hard for QWERTY typists to learn due to it being so different from the QWERTY layout.
 
