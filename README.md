@@ -1,7 +1,5 @@
 # EclipseCON 2022 Keyboard Talk
 
-> 34 keys is all you need: _An ergonomic mechanical keyboard journey_
-
 These slides are using [Marp](https://marp.app/) Markdown Presentation Ecosystem. Usage documentation can be found [here](https://marpit.marp.app/). Example [here](https://speakerdeck.com/yhatt/marp-basic-example?slide=20).
 
 For building the slides in this repository using the [official Docker image](https://hub.docker.com/r/marpteam/marp-cli/) use the following commands:
