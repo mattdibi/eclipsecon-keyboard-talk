@@ -156,20 +156,20 @@ The row staggered layout is a heritage from the old typewriters that needed such
 
 ---
 
-# Minimal
+# Minimalism
 
 > "We are moving our keys to the fingers, we're not moving our fingers to the keys"
 
 ![bg opacity blur](./media/hardware/1wubhh0.jpeg)
 
 <!--
-- Less distance between keys (minimal key travel) means fewer errors
-- Less hand repositioning which means fewer errors (I found that most of my mistakes were due to repositioning my hand after moving away from the home row, these can't exists if you're always on the home row) Example of annoying movements: home row -> esc, home row -> arrow keys
-- Improving typing habits: I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. With the miryoku layout I am forced to use the index and to alternate between left and right hand (which is the correct way of doing it).
-- The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered (and *actually started using*) the alt/cmd+backspace combinations which improved my typing habits again. This is now ingrained in my muscle memory and use it everywhere (like the alt+cmd arrow keys).
-- Due to their placement (home-row mods) shortcuts are so much easier to type (see iTerm2 tab/split change)
+We'll talk about how we can achieve this in the following slides but let's focus on why this is something good.
+
+- Reducing finger movement means reducing fatigue and strain on the hands
+- Reducing finger movement means fewer errors: you don't need to reposition your hands and thus reduce the probability of misplacing them
+- Improving typing habits: I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. Reducing the number of keys means that you're constrained to use your keyboard properly.
 - Portability (duh!)
-- It is **fun**
+- It looks *adorable*
 -->
 
 ---
@@ -581,6 +581,28 @@ Docs: https://github.com/manna-harbour/miryoku
 
 ---
 
+# Personal experience
+
+It's been a year since I adopted the Miryoku layout. Here's my feedback:
+
+* It improved my typing habits
+* The "limitations" of this keyboard made me discover new *improved* typing habits
+* Shortcuts are *so much more comfortable to type*
+* Improved symbols access
+* **It is FUN**
+
+<!--
+- I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. With the miryoku layout I am forced to use the index and to alternate between left and right hand (which is the correct way of doing it).
+- The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered (and *actually started using*) the alt/cmd+backspace combinations which improved my typing habits again. This is now ingrained in my muscle memory and use it everywhere (like the alt+cmd arrow keys).
+- Due to their placement (home-row mods) shortcuts are so much easier to type (see iTerm2 tab/split change)
+- Accessing symbols is much easier now since I no longer need to reposition my hands and thus I'm using Vim command that depends on these symbols (%, $, {) much more frequently.
+- It is **fun**
+-->
+
+---
+
 # Conclusions
 
-[WIP]
+* Minimal (sub 40 keys) ergonomic keyboards are *viable*, if not *preferable* to normal keyboards.
+* The techniques developed for this keyboard to work might come useful for all keyboard users.
+* Give them a try!
