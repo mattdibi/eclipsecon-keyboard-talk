@@ -26,14 +26,7 @@ jobs:
       - name: Marp Build (README.pdf)
         uses: docker://marpteam/marp-cli:v1.7.0
         with:
-          args: --bespoke.progress slides.md -o build/slides.pdf
-        env:
-          MARP_USER: root:root
-
-      - name: Marp Build (README.pptx)
-        uses: docker://marpteam/marp-cli:v1.7.0
-        with:
-          args: --bespoke.progress slides.md -o build/slides.pptx
+          args: --allow-local-files --bespoke.progress slides.md -o build/slides.pdf
         env:
           MARP_USER: root:root
 
