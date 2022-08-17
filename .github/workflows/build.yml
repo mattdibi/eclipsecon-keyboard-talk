@@ -4,7 +4,7 @@ name: marp-to-pages
 concurrency: marp-to-pages
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 jobs:
   build:
     runs-on: ubuntu-latest
