@@ -78,7 +78,7 @@ ul {
 - Top: Corona Model 4 1920 ca.
 - Bottom: Macbook Air 2020 ca.
 
-### Why are we still stuck with this s***?
+### Why are we still stuck with this :shit:?
 
 
 ![bg right 80%](./media/hardware/20220812_094917.jpg)
