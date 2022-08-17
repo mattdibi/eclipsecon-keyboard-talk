@@ -23,13 +23,6 @@ jobs:
         env:
           MARP_USER: root:root
 
-      - name: Marp Build (README.pdf)
-        uses: docker://marpteam/marp-cli:v1.7.0
-        with:
-          args: --allow-local-files --bespoke.progress slides.md -o build/slides.pdf
-        env:
-          MARP_USER: root:root
-
       - name: Deploy production
         uses: JamesIves/github-pages-deploy-action@v4
         with:
