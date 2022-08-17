@@ -1,6 +1,4 @@
-# EclipseCON 2022 Keyboard Talk
-
-## 34 keys is all you need: an ergonomic keyboard journey
+# EclipseCON 2022 Talk: "_34 keys is all you need: an ergonomic keyboard journey_"
 
 ### Description
 
