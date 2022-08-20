@@ -579,6 +579,19 @@ p {
 
 Docs: https://github.com/manna-harbour/miryoku
 
+<!--
+And here we are, this is the base for my current layout: the Miryoky layout by Manna Harbour.
+
+As you can see it packs quite a lot more features that what I covered: 
+- it has a media layer for controlling volume, media and bluetooth settings.
+- a mouse emulation layer
+- some copy paste shortucts for one handed use
+
+and more. I invite you to give a look at the awesome documentation provided in the official repo.
+
+Everything is open source obviously...
+-->
+
 ---
 
 # Personal experience
@@ -597,6 +610,8 @@ Docs: https://github.com/manna-harbour/miryoku
 - Accessing symbols is much easier now since I no longer need to reposition my hands and thus I'm using Vim command that depends on these symbols (%, $, {) much more frequently.
 - I've yet to encounter a key combination that I cannot type
 - It is **fun**
+
+
 -->
 
 ---
