@@ -621,3 +621,14 @@ Everything is open source obviously...
 * Minimal (sub 40 keys) ergonomic keyboards are *viable*, if not *preferable* to normal keyboards.
 * The techniques developed for this keyboard to work might come useful for all keyboard users.
 * Give them a try!
+
+---
+
+# Credits
+
+- _Cover pic_: /u/Kyek
+- _Taobao Supreme pic_: /u/dantambok
+- _Moonlander pic_: hardwarecanucks.com
+- _Corne pic_: u/molwams
+- _Skeletyl pic_: @urza\_cc
+- _Miryoku keymap_: Manna Harbour
