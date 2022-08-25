@@ -16,6 +16,10 @@ In this talk I'll focus on various aspect of modern keyboards and their outdated
 
 Finally I'll put everything together and talk about my current daily driver: a 34-keys bluetooth split keyboard powered by the open source ZMK firmware and the Miryoku layout.
 
+## Viewing the presentation
+
+A pre-built version of the presentation is available in the [`gh-pages` branch](https://github.com/mattdibi/eclipsecon-keyboard-talk/tree/gh-pages), this version is built by a custom Github workflow from the `master` branch. Once this repo will go public the presentation will be available at [https://mattdibi.github.io/eclipsecon-keyboard-talk/](https://mattdibi.github.io/eclipsecon-keyboard-talk/).
+
 ## Building the presentation
 
 These slides are using [Marp](https://marp.app/) Markdown Presentation Ecosystem. Usage documentation can be found [here](https://marpit.marp.app/). Example [here](https://speakerdeck.com/yhatt/marp-basic-example?slide=20) and [here](https://raw.githubusercontent.com/hahnec/marp-recipes/master/marp_recipes.pdf).
