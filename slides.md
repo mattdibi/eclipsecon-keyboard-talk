@@ -626,9 +626,9 @@ Everything is open source obviously...
 
 # Credits
 
-- _Cover pic_: /u/Kyek
-- _Taobao Supreme pic_: /u/dantambok
+- _Cover pic_: [/u/Kyek](https://github.com/duckyb)
+- _Taobao Supreme pic_: [/u/dantambok](https://www.reddit.com/r/MechanicalKeyboards/comments/8v0a9a/best_photo_i_have_taken_so_far/)
 - _Moonlander pic_: hardwarecanucks.com
-- _Corne pic_: u/molwams
-- _Skeletyl pic_: @urza\_cc
-- _Miryoku keymap_: Manna Harbour
+- _Corne pic_: [u/molwams](https://imgur.com/gallery/0XtplrD)
+- _Skeletyl pic_: [@urza\_cc](https://twitter.com/urza_cc/status/1491380688892805123?s=20&t=K2xHF-xH5f7xICDeaPuEWg)
+- _Miryoku keymap_: [Manna Harbour](https://github.com/manna-harbour)
