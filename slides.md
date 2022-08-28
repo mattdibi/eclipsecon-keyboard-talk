@@ -594,6 +594,22 @@ Everything is open source obviously...
 
 ---
 
+# <!-- fit --> 5. Conclusions
+
+---
+
+<!-- _footer: Pic: Ferris Sweep Half Swept in custom 3D printed case w/ Nice!NanosV2 running ZMK -->
+
+![bg cover](./media/ferris.jpg)
+
+<!--
+This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... and I like it a lot
+-->
+
+---
+
+![bg cover opacity blur](./media/ferris.jpg)
+
 # Personal experience
 
 * It improved my typing habits
@@ -610,13 +626,11 @@ Everything is open source obviously...
 - Accessing symbols is much easier now since I no longer need to reposition my hands and thus I'm using Vim command that depends on these symbols (%, $, {) much more frequently.
 - I've yet to encounter a key combination that I cannot type
 - It is **fun**
-
-
 -->
 
 ---
 
-# Conclusions
+# Talk Takeaways
 
 * Minimal (sub 40 keys) ergonomic keyboards are *viable*, if not *preferable* to normal keyboards.
 * The techniques developed for this keyboard to work might come useful for all keyboard users.
