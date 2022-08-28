@@ -646,3 +646,25 @@ This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... an
 - _Corne pic_: [/u/molwams](https://imgur.com/gallery/0XtplrD)
 - _Skeletyl pic_: [@urza\_cc](https://twitter.com/urza_cc/status/1491380688892805123?s=20&t=K2xHF-xH5f7xICDeaPuEWg)
 - _Miryoku keymap_: [Manna Harbour](https://github.com/manna-harbour)
+
+---
+
+# <!-- fit --> Can we go deeper?
+
+<!--
+The top keyboard is a 18-key Ergogen-generated PCB running the ISRT layout. The owner says he can readch 60WPM which is an above-average speed.
+The bottom keyboard is a 10-key Ginni keyboard using the ASETNIOP layout.
+
+Reddit post: https://www.reddit.com/r/ErgoMechKeyboards/comments/wy4e3a/my_ergonomic_18key_keyboard_inspired_by_ben/
+-->
+
+---
+
+![w:600](./media/appendix/0pi1r8j3z0k91.jpg)
+![w:600](./media/appendix/ginny-split.png)
+
+---
+
+# Ultimate goal :star_struck:
+
+![w:800](./media/appendix/DSC00678_crop.jpg)
