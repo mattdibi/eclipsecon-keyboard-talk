@@ -600,7 +600,7 @@ Everything is open source obviously...
 
 <!-- _footer: Pic: Ferris Sweep Half Swept in custom 3D printed case w/ Nice!NanosV2 running ZMK -->
 
-![bg cover](./media/ferris.jpg)
+![bg cover](./media/ferris2.jpg)
 
 <!--
 This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... and I like it a lot
@@ -608,7 +608,7 @@ This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... an
 
 ---
 
-![bg cover opacity blur](./media/ferris.jpg)
+![bg cover opacity blur](./media/ferris2.jpg)
 
 # Personal experience
 
