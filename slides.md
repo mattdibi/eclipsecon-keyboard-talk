@@ -16,6 +16,11 @@ _An ergonomic mechanical keyboard journey_
 <!-- _footer: Author: Mattia Dal Ben -->
 <!-- _paginate: false -->
 
+<!--
+Hi everyone,
+I'm here today to try and convince you that 34 is totally reasonable amount of keys to have on a keyboard and that I'm not, in fact, a totally deranged individual.
+-->
+
 ---
 
 ####  Who am I?
@@ -26,6 +31,13 @@ _An ergonomic mechanical keyboard journey_
 - Designed the _Redox Keyboard_ and the _Yampad_
 
 ![bg right](media/yampad.jpg)
+
+<!--
+* I have a master degree in Electronic Engineering
+* I work as a Software Engineer at Eurotech
+* I'm a keyboard addict
+* I designed a few projects that are quite popular in the keyboard community: the Redox keyboard and the Yampad
+-->
 
 ---
 
@@ -41,10 +53,13 @@ _An ergonomic mechanical keyboard journey_
 ![bg fit left](media/drake-approves--disapproves.png)
 
 <!--
+So... what are we going to talk about?
 * We're not gonna talk about your average custom mechanical keyboard
 * We're gonna talk about small from factor (sub 40% i.e. 35 keys), ergonomic, low profile (choc), open-source(mostly), mechanical keyboards
 * We're gonna talk about what firmware/software features/techniques make them a viable option (features that can be applied even to normal keyboards)
 * ... and, above all, **why** should you want to try them.
+
+BTW, the keyboards in the bottom picture are all mine... I warned you I am a keyboard addict.
 -->
 
 ---
@@ -57,10 +72,10 @@ _An ergonomic mechanical keyboard journey_
 4) _Miryoku_
 
 <!-- 
-1. _Hardware_: Advancement on keyboard physical layout.
-2. _Software_: New features that make such keyboards viable
+1. _Hardware_: Advancement on keyboard physical layout, i.e. how can we improve on a 100 years old design.
+2. _Software_: New features that make minimal keyboards viable for daily use
 3. _Layout_: QWERTY is bad basically
-4. _Miryoku_: Let's put it all together
+4. _Miryoku_: Finally we'll put everything together
 -->
 
 ---
@@ -651,20 +666,20 @@ This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... an
 
 # <!-- fit --> Can we go deeper?
 
+---
+
+![w:600](./media/appendix/0pi1r8j3z0k91.jpg)
+![w:600](./media/appendix/ginny-split.png)
+
 <!--
-The top keyboard is a 18-key Ergogen-generated PCB running the ISRT layout. The owner says he can readch 60WPM which is an above-average speed.
-The bottom keyboard is a 10-key Ginni keyboard using the ASETNIOP layout.
+The top keyboard is a 18-key Ergogen-generated PCB running the ISRT layout. The owner says he can reach 60WPM which is an above-average speed.
+The bottom keyboard is a 10-key Ginny keyboard using the ASETNIOP layout.
 
 Reddit post: https://www.reddit.com/r/ErgoMechKeyboards/comments/wy4e3a/my_ergonomic_18key_keyboard_inspired_by_ben/
 -->
 
 ---
 
-![w:600](./media/appendix/0pi1r8j3z0k91.jpg)
-![w:600](./media/appendix/ginny-split.png)
-
----
-
-# Ultimate goal :star_struck:
+# The endgame :star_struck:
 
 ![w:800](./media/appendix/DSC00678_crop.jpg)
