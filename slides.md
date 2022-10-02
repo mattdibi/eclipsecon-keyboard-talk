@@ -72,10 +72,10 @@ BTW, the keyboards in the bottom picture are all mine... I warned you I am a key
 4) _Miryoku_
 
 <!-- 
-1. _Hardware_: Advancement on keyboard physical layout, i.e. how can we improve on a 100 years old design.
+1. _Hardware_: We'll see how we can improve on a 100 years old design.
 2. _Software_: New features that make minimal keyboards viable for daily use
-3. _Layout_: QWERTY is bad basically
-4. _Miryoku_: Finally we'll put everything together
+3. _Layout_: I'll briefly cover the most common alternative layout and why you would want to use them
+4. _Miryoku_: Finally we'll put everything together talking about my current keyboard
 -->
 
 ---
@@ -133,6 +133,10 @@ Your wrist are not built to bend like that. Split the keyboard to have a more na
 
 <!-- _footer: Pic: Taobao Supreme (Superme) 65% Split keyboard -->
 
+<!--
+This is a Taobao Supreme 65% split keyboard. This is not open source, even though you can easily find similar alternatives that are. I choose to use this picture only because it was pretty :)
+-->
+
 ---
 
 # Thumb cluster
@@ -142,7 +146,10 @@ Your wrist are not built to bend like that. Split the keyboard to have a more na
 ![bg opacity blur](./media/hardware/Dygma-Raise-Split-Gaming-Keyboard-3.png)
 
 <!--
-Why is your strongest finger used to press only a key? This is dumb. Give it more keys!
+Why is your strongest finger (the thumb) used to press only a key? It's a waste!
+
+Let's create a dedicated set of keys only for the thumbs (it is usually called "Thumb Cluster").
+There's no common rule for which function to dedicate to which button but, usually, you'll see the most used keys in the thumb cluster: space, enter, backspace, delete, tab, shift...
 -->
 
 ---
@@ -150,6 +157,10 @@ Why is your strongest finger used to press only a key? This is dumb. Give it mor
 ![bg](./media/hardware/Dygma-Raise-Split-Gaming-Keyboard-3.png)
 
 <!-- _footer: Pic: Dygma Raise -->
+
+<!--
+Here you can see a Dygma Raise keyboard (again: not open source, but it's the last one I promise) with a 4-key thumb cluster.
+-->
 
 ---
 
@@ -161,6 +172,8 @@ Why is your strongest finger used to press only a key? This is dumb. Give it mor
 
 <!--
 The row staggered layout is a heritage from the old typewriters that needed such an arrangement to prevent the percussors to get stuck. Such a design is not needed anymore and doesn't fit with the human hand conformation.
+
+The common alternative is to use the "Columnar Stagger": keys are vertically aligned and displaced following the length of the fingers.
 -->
 
 ---
@@ -168,6 +181,10 @@ The row staggered layout is a heritage from the old typewriters that needed such
 ![bg](./media/hardware/redox-1.jpg)
 
 <!-- _footer: Pic: Redox -->
+
+<!--
+Here you can see a Redox keyboard (which I designed) featuring a "soft" columnar stagger.
+-->
 
 ---
 
@@ -178,13 +195,17 @@ The row staggered layout is a heritage from the old typewriters that needed such
 ![bg opacity blur](./media/hardware/1wubhh0.jpeg)
 
 <!--
-We'll talk about how we can achieve this in the following slides but let's focus on why this is something good.
+Finally we're at the heart of this talk.
 
-- Reducing finger movement means reducing fatigue and strain on the hands
-- Reducing finger movement means fewer errors: you don't need to reposition your hands and thus reduce the probability of misplacing them
-- Improving typing habits: I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. Reducing the number of keys means that you're constrained to use your keyboard properly.
+We'll talk about *how* we can reduced the number of keys in the following slides but let's focus on *why* this is something we want to do.
+
+- Reducing finger movement means reducing fatigue and strain on the hands -> More ergonomic
+- Reducing finger movement means fewer errors: you don't need to reposition your hands and thus reduce the probability of misplacing them making mistakes
+- Improving typing habits: you can't use incorrectly what doesn't exists. I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. Reducing the number of keys means that you're constrained to use your keyboard properly.
 - Portability (duh!)
-- It looks *adorable*
+- They look *adorable*
+
+To this we'll see in a bit how we'll move our keys to the fingers, and not the other way around.
 -->
 
 ---
@@ -192,6 +213,14 @@ We'll talk about how we can achieve this in the following slides but let's focus
 ![bg](./media/hardware/1wubhh0.jpeg)
 
 <!-- _footer: Pic: Corne -->
+
+<!--
+Here's a Corne keyboard by Foostan. It features everything we just talked about: it's a split keyboard, it has a thumb cluster and features columnar stagger.
+
+All within 36 keys.
+
+We're now in "minimal" territory.
+-->
 
 ---
 
@@ -206,9 +235,9 @@ We'll talk about how we can achieve this in the following slides but let's focus
 <!--
 Pronation in the forearm and wrist occurs when typing with your palms face down towards the worksurface. The majority of this turning involves the rotation of both forearm bones (ulna and radius).
 
-Sustained pronation puts pressure on the forearm muscles and tissues which reduces blood circulation and can lead to fatigue and repetitive strain injuries (“RSI”). Research demonstrates that a moderate elevation of the thumb side of the hand dramatically reduces the pressure on the forearm muscles.
+Sustained pronation puts pressure on the forearm muscles and tissues which reduces blood circulation and can lead to fatigue and repetitive strain injuries (“RSI”). This can be avoided by eleveting the thumb side of the hand.
 
-The concave key wells ensure the keys are reachable and mimic the curve drawn by our fingers.
+Furthermore, adding concave key wells ensure the keys are reachable and mimic the curve drawn by our fingers.
 -->
 
 ---
@@ -217,9 +246,19 @@ The concave key wells ensure the keys are reachable and mimic the curve drawn by
 
 <!-- _footer: Pic: Skeletyl -->
 
+<!--
+Here you can see a Skeletyl from Bastardkb. It features both a concave key well and tilting.
+-->
+
 ---
 
 # <!-- fit --> 2. Software
+
+<!--
+We have now seen *what* we want to achieve and *why*.
+
+Let's talk about *how* we can do this.
+-->
 
 ---
 
@@ -231,13 +270,13 @@ The concave key wells ensure the keys are reachable and mimic the curve drawn by
 
 
 <!--
-Keyboard firmware is the software running on the microcontrollers, responsible for scanning the matrix state and reporting which keys are being pressed to the OS. Sounds pretty straightforward right? Wrong.
+Keyboard firmware is the software running on the microcontrollers, responsible for scanning the matrix state and reporting which keys are being pressed to the Operating System. Sounds pretty straightforward right? Wrong.
 
 In the keyboard enthusiast space we have mainly two projects for this:
-- QMK: Quantum Mechanical Keyboard firmware. Which is a mature project with a lively ecosystem of sub-projects.
-- ZMK: Zephyr Mechanical Keyboard firmware. Which is relatively new but can support bluetooth.
+- QMK: Quantum Mechanical Keyboard firmware. Which is a mature project and the de-facto standard for custom keyboards, with a lively ecosystem of sub-projects.
+- ZMK: Zephyr Mechanical Keyboard firmware. Which is relatively new but already fairly mature (and my personal favourite). It's killer feature is the bluetootk support which QMK doesn't offer due to licensing issues.
 
-There are others (KMK, TMK) with their own merits but I'll discuss this right now.
+There are others (KMK, TMK) with their own merits but I'll not discuss them right now.
 -->
 
 ---
@@ -255,7 +294,7 @@ h1 {
 <!--
 With these tools we can program much more smart behaviours in our keyboards: some of you might be familiar with the concept of macros. Maybe ramapping keys in more comfortable places (the caps lock doesn't deserve the place it has on the keyboard) without the need to configure every OS you connect to.
 
-There are much more useful behaviours though that we'll discuss now. You should be able to find these feature in each of the previous firmwares.
+There are much more useful behaviours though that we'll discuss now. You should be able to find these feature in each of the previously mentioned firmwares.
 -->
 
 ---
