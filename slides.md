@@ -315,6 +315,14 @@ ul {
 
 ![bg right:33% 85%](./media/firmware/layer.gif)
 
+<!--
+This is the bread and butter of custom mechanical keyboards: layers.
+
+This amounts to changing the behaviour of a key by pressing another key. You might be familiar with the FN key on some laptops which turns the function row in brightness control or media control. This is essentially it.
+
+It's a space saving measure.
+-->
+
 ---
 
 <style scoped>
@@ -333,7 +341,7 @@ ul {
 ![bg right:33% 40%](./media/firmware/holdtap.gif)
 
 <!--
-What if instead of reaching for the shift key we could just keep the key pressed a little bit longer? This technique is called "Autoshift" and leverages the Hold-tap behaviour as you can see here.
+What if instead of reaching for the shift key we could just keep the key pressed a little bit longer to get the upper case version of it? This technique is called "Autoshift" and leverages the Hold-tap behaviour as you can see in the animation here.
 -->
 
 ---
@@ -354,7 +362,11 @@ ul {
 ![bg right:33% 40%](./media/firmware/modtap.gif)
 
 <!--
-If you think about it, it is the perfect application: modifiers keys (ctrl, alt, command) are rarely pressed by themselves. They're *modifiers* after all.
+Let's take this concept a little further: what if we removed the need for modifier keys by using the hold-tap technique?
+
+If you think about it, it is the perfect application: modifiers keys (ctrl, alt, command) are rarely pressed by themselves, you need to keep them pressed. They're *modifiers* after all.
+
+We can now put them anywhere we want, without the need for dedicated keys!
 -->
 
 ---
@@ -374,7 +386,13 @@ ul {
 - Great article: https://precondition.github.io/home-row-mods
 
 <!--
-Think about moving away from the home row as a cache miss: you incur in a higher latency when trying to write something
+Let's put them where we don't need to reach for them: on the home row!
+
+Think about moving away from the home row as a cache miss: you incur in a higher latency when trying to write something that needs keys not on the home row.
+
+Modifiers are used pretty frequently (I mean: we built our carrers on CTRL-C, CTRL-V) having them where they're easier to reach is a no-brainer.
+
+This also have a big ergonomic advantage: you don't need to place your fingers awkwardly to press common shortcuts. Everything is comfortably reachable.
 -->
 
 ---
@@ -418,7 +436,9 @@ ul {
 ![bg right:33% 85%](./media/firmware/combos.gif)
 
 <!--
-What if, instead of needing a dedicated caps lock button, you could just press the two shift keys together?
+Finally, a more recent feature: combos.
+
+What if, instead of needing a dedicated caps lock button, you could just press the two shift keys together? Again... less keys.
 -->
 
 ---
@@ -433,6 +453,11 @@ What if, instead of needing a dedicated caps lock button, you could just press t
 
 <!--
 There's a lot more than this that you can achieve with these firmwares
+
+Some of you might be familiar with the "Leader key" by using Vim. Think about having it everywhere!
+Caps word is another nice feature: it's a smart caps lock, it deactivates on its own when a certain character is pressed (like the space key)
+
+I invite you to take a look at the QMK and ZMK documentation to understand what these firmwares are capable of.
 -->
 
 ---
