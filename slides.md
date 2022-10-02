@@ -508,6 +508,10 @@ In the end we're still using a layout that was design for the needs of the 19th 
 
 ![w:800](./media/layout/dvorak_layout.png)
 
+<!--
+The first attempt to optimize the layout for writing was done by ... [WIP]
+-->
+
 ---
 
 <style scoped>
