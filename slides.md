@@ -509,7 +509,11 @@ In the end we're still using a layout that was design for the needs of the 19th 
 ![w:800](./media/layout/dvorak_layout.png)
 
 <!--
-The first attempt to optimize the layout for writing was done by ... [WIP]
+An attempt to propose a better layout for writing was done by August Dvorak *in 1936*. The Dvorak layout you can see here.
+
+The principle is simple: the most common character used in the English vocaboulary are the easiest to reach. Look at the vowels on the home row.
+
+It was designed from the start with ergonomics in mind and its proponents claim that it requires less finger motion (again) and as a result reduces errors, increases typing speed, reduces repetitive strain injuries.
 -->
 
 ---
@@ -528,6 +532,10 @@ p {
 
 ["Comparing Different Keyboard Layouts: Aspects of QWERTY, DVORAK and alphabetical keyboards"](https://www.researchgate.net/profile/Pieter-Buzing/publication/252214871_Comparing_Different_Keyboard_Layouts_Aspects_of_QWERTY_DVORAK_and_alphabetical_keyboards/links/60c3123c4585157774c7fd96/Comparing-Different-Keyboard-Layouts-Aspects-of-QWERTY-DVORAK-and-alphabetical-keyboards.pdf?origin=publication_detail)
 
+<!--
+During my research I found this paper comparing various keyboard layouts and, indeed, the claims are true, albeit maybe not as dramatic as you might expect (5% increase in typing speed). The issue here is that the perceived gain (5% speed increase and an objectively difficult to measure ergonomic gain) didn't convince the general public that the layout was worth the switch.
+-->
+
 ---
 
 ### Colemak layout
@@ -537,22 +545,26 @@ p {
 > Coleman states that he designed Colemak to be easy to learn, explaining that Dvorak is hard for QWERTY typists to learn due to it being so different from the QWERTY layout.
 
 <!--
-Colemak layout tries to address the issues with the Dvorak layout, preserving its efficiency and design principles.
+Then we have the Colemak layout, introduced by Shai Coleman in 2006, which tries to address the issues with the Dvorak layout. Preserving its efficiency and design principles but trying to lower the barrier of entry for people coming from the QWERTY layout.
 
-Unfortunately it's still considered an exotic layout and its adoption is quite small
+This is the most common alternative layout suggested today. A more recent variant, Colemak Mod-DH, is the most popular and suggested for newcomers.
+
+I'm still on the fence about it :)
 -->
 
 ---
 
 # <!-- fit --> 4. Miryoku
 
+<!--
+Finally... the Miryoku layout
+
+We have now covered all the feature and techniques that can improve our keyboards.
+-->
+
 ---
 
 # Let's put it all together now
-
-<!--
-We covered all the feature and tachniques that can improve our keyboards. Let's put it all together now
--->
 
 ---
 
@@ -563,7 +575,9 @@ We covered all the feature and tachniques that can improve our keyboards. Let's 
 ![w:700](./media/miryoku/0_base/miryoku-base-layer.drawio.png)
 
 <!--
-Let's try and fit all the keys of our normal keyboard onto our tiny board over here.
+Let's play a little game here: let's try and fit all the keys on our outdated and ugly full-size keyboard onto this super-cute ergonomic split 34-keys keyboard here.
+
+As you can see the hardware ticks all the boxes: it's split, it has a thumb cluster, columnar stagger and the right amount of keys. We'll need all the software features we talked before to make everything fit.
 -->
 
 ---
@@ -575,7 +589,7 @@ Let's try and fit all the keys of our normal keyboard onto our tiny board over h
 ![w:700](./media/miryoku/1_base/miryoku-base-layer.png)
 
 <!--
-Letters are where we expect them to be.
+Let's start with the basics: simple characters are where we expect them to be.
 -->
 
 ---
@@ -604,6 +618,8 @@ Furthermore we'll need layers to fit everything into this keyboard, thumbs will 
 
 <!--
 To cover the mods we'll simply use the home-row mods we talked about in the previous slides
+
+As you can see we've covered a large part of the keys from the full-size keyboard and we didn't even use a layer yet.
 -->
 
 ---
@@ -663,12 +679,13 @@ p {
 Docs: https://github.com/manna-harbour/miryoku
 
 <!--
-And here we are, this is the base for my current layout: the Miryoky layout by Manna Harbour.
+And here we are, this is the principle behind the Miryoky layout by Manna Harbour. One of the most common for minimal keyboards.
 
 As you can see it packs quite a lot more features that what I covered: 
 - it has a media layer for controlling volume, media and bluetooth settings.
 - a mouse emulation layer
 - some copy paste shortucts for one handed use
+- in its default configuration uses the Colemak layout but supports QWERTY, Dvorak and others out of the box
 
 and more. I invite you to give a look at the awesome documentation provided in the official repo.
 
@@ -686,7 +703,7 @@ Everything is open source obviously...
 ![bg cover](./media/ferris2.jpg)
 
 <!--
-This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... and I like it a lot
+Finally... this is my current daily driver keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... and I like it a lot
 -->
 
 ---
@@ -703,12 +720,13 @@ This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... an
 * It is **FUN**
 
 <!--
+Here's why:
 - I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. With the miryoku layout I am forced to use the index and to alternate between left and right hand (which is the correct way of doing it). I also used to press the spacebar with my index finger, these keyboard made me drop this bad habit.
-- The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered (and *actually started using*) the alt/cmd+backspace combinations which improved my typing habits again. This is now ingrained in my muscle memory and use it everywhere (like the alt+cmd arrow keys).
-- Due to their placement (home-row mods) shortcuts are so much easier to type (see iTerm2 tab/split change)
-- Accessing symbols is much easier now since I no longer need to reposition my hands and thus I'm using Vim command that depends on these symbols (%, $, {) much more frequently.
+- The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered (and *actually started using*) the alt/cmd+backspace combinations which improved my typing habits again.
+- Due to their placement (home-row mods) shortcuts are so much easier to type. For word-wise navigation I use the Option-Arrows to move aroun. Doing so on a normal keyboard would move my hand away, with this keyboard I can stay on the home row! And this is true for a lot of shortcuts
+- Accessing symbols is much easier now since I no longer need to reposition my hands and thus I'm using Vim command that depends on these symbols much more frequently.
 - I've yet to encounter a key combination that I cannot type
-- It is **fun**
+- It is just plain **fun** to use, really
 -->
 
 ---
@@ -718,6 +736,13 @@ This is my current keyboard: a Ferris Sweep Half Swept running Miryoku ZMK... an
 * Minimal (sub 40 keys) ergonomic keyboards are *viable*, if not *preferable* to normal keyboards.
 * The techniques developed for this keyboard to work might come useful for all keyboard users.
 * Give them a try!
+
+<!--
+So finally I hope I convinced you that:
+- Minimal ergonomic keyboards are not just a novelty but offers serious ergonomic advantagees that makes them viable if not preferable to normal keyboards
+- Techniques and layouts that I showed you can benefit all keyboards. The Miryoku layout was implemented also on KMonad which works on any keyboard.
+- Give it a try!
+-->
 
 ---
 
