@@ -751,3 +751,7 @@ Reddit post: https://www.reddit.com/r/ErgoMechKeyboards/comments/wy4e3a/my_ergon
 # The endgame :star_struck:
 
 ![w:800](./media/appendix/DSC00678_crop.jpg)
+
+---
+
+# <!-- fit --> Questions?
