@@ -18,7 +18,7 @@ _An ergonomic mechanical keyboard journey_
 
 <!--
 Hi everyone,
-I'm here today to try and convince you that 34 is totally reasonable amount of keys to have on a keyboard and that I'm not, in fact, a totally deranged individual.
+I'm here today to try and convince you that 34 is totally reasonable amount of keys to have on a keyboard and that I'm not a totally deranged individual.
 -->
 
 ---
@@ -33,6 +33,9 @@ I'm here today to try and convince you that 34 is totally reasonable amount of k
 ![bg right](media/yampad.jpg)
 
 <!--
+Let's start by presenting myself
+* I'm Mattia Dal Ben
+* I'm from Italy
 * I have a master degree in Electronic Engineering
 * I work as a Software Engineer at Eurotech
 * I'm a keyboard addict
@@ -54,10 +57,10 @@ I'm here today to try and convince you that 34 is totally reasonable amount of k
 
 <!--
 So... what are we going to talk about?
-* We're not gonna talk about your average custom mechanical keyboard
-* We're gonna talk about small from factor (sub 40% i.e. 35 keys), ergonomic, low profile (choc), open-source(mostly), mechanical keyboards
-* We're gonna talk about what firmware/software features/techniques make them a viable option (features that can be applied even to normal keyboards)
-* ... and, above all, **why** should you want to try them.
+* We're *NOT* gonna talk about your average custom mechanical keyboard
+* We're gonna talk about small from factor (which means less than 40 keys), ergonomic, open-source, mechanical keyboards
+* We're gonna talk about what firmware/software features make them a viable option (Features that can be applied even to normal keyboards)
+* ... and, above all, **why** should you want to use them.
 
 BTW, the keyboards in the bottom picture are all mine... I warned you I am a keyboard addict.
 -->
@@ -71,11 +74,11 @@ BTW, the keyboards in the bottom picture are all mine... I warned you I am a key
 3) _Layout_
 4) _Miryoku_
 
-<!-- 
-1. _Hardware_: We'll see how we can improve on a 100 years old design.
-2. _Software_: New features that make minimal keyboards viable for daily use
-3. _Layout_: I'll briefly cover the most common alternative layout and why you would want to use them
-4. _Miryoku_: Finally we'll put everything together talking about my current keyboard
+<!--
+1. _Hardware_: We'll start by talking about how we can improve the ergonimics of a 100 years old design from the hardware perspective (spoiler alert: we'll remove a lot of keys in the process)
+2. _Software_: Then we'll talk about the software features that make minimal keyboards viable for daily use
+3. _Layout_: I'll also briefly cover the most common alternative layouts and why would you want to use them
+4. _Miryoku_: Finally we'll put everything together with the Miryoku layout, one of the most popular layout for small form factor ergonomic keyboards
 -->
 
 ---
