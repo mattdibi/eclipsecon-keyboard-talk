@@ -102,10 +102,10 @@ ul {
 ![bg right 80%](./media/hardware/20220812_094917.jpg)
 
 <!--
-On the top half you can see a Corona Model 4 that was introduced around 1920
+On the top half you can see a Corona Model 4 that was introduced around 1920 (I heard Corona stuff is pretty popular right now so I tried to keep up with the times)
 On the bottom half a 2020 MacBook Air
 
-There's a century between these two and they use the same keyboard...
+There's a century between these two and they have a lot in common from the keyboard design perspective...
 
 Keyboard design essentially didn't change since 1880 when typewrites appeared. We're burdened by design choices due to mechanical/physical constraints that no longer exist. Nobody even question it...
 
@@ -125,9 +125,11 @@ Keyboard design essentially didn't change since 1880 when typewrites appeared. W
 ![bg opacity blur](./media/hardware/dantambok-superme-mechanical-keyboard.webp)
 
 <!--
-Ulnar deviation occurs when your wrist is bent outward in the direction of your little finger. It is among the most common and potentially damaging keyboard postures and can lead to carpal tunnel syndrome and other serious repetitive strain injuries.
+Let's start with the ulnar deviation.
 
-Your wrist are not built to bend like that. Split the keyboard to have a more natural posture.
+Ulnar deviation occurs when your wrist is bent outward in the direction of your little fingers. It is among the most common and potentially damaging keyboard postures and can lead to carpal tunnel syndrome and other serious repetitive strain injuries.
+
+Your wrist are not built to bend like that. So... we can split the keyboard to have a more natural posture.
 -->
 
 ---
@@ -138,6 +140,8 @@ Your wrist are not built to bend like that. Split the keyboard to have a more na
 
 <!--
 This is a Taobao Supreme 65% split keyboard. This is not open source, even though you can easily find similar alternatives that are. I choose to use this picture only because it was pretty :)
+
+As you can see, by being split, we can move the two halves around however we want to, allowing us to assume a more natural posture while typing.
 -->
 
 ---
@@ -149,9 +153,9 @@ This is a Taobao Supreme 65% split keyboard. This is not open source, even thoug
 ![bg opacity blur](./media/hardware/Dygma-Raise-Split-Gaming-Keyboard-3.png)
 
 <!--
-Why is your strongest finger (the thumb) used to press only a key? It's a waste!
+Another thing that we can improve is the fact that... Why is your strongest finger (the thumb) used to press only a key? Even worse: you use both your thumbs to press a single key: the spacebar. It's a waste!
 
-Let's create a dedicated set of keys only for the thumbs (it is usually called "Thumb Cluster").
+Let's create a dedicated set of keys only for the thumbs. This set of keys is called "Thumb Cluster" and is one of the most common features of ergonomic keyboards.
 There's no common rule for which function to dedicate to which button but, usually, you'll see the most used keys in the thumb cluster: space, enter, backspace, delete, tab, shift...
 -->
 
@@ -162,7 +166,7 @@ There's no common rule for which function to dedicate to which button but, usual
 <!-- _footer: Pic: Dygma Raise -->
 
 <!--
-Here you can see a Dygma Raise keyboard (again: not open source, but it's the last one I promise) with a 4-key thumb cluster.
+Here you can see a Dygma Raise keyboard with a 4-key thumb cluster (again: not open source, but it's the last one I promise)
 -->
 
 ---
@@ -174,7 +178,7 @@ Here you can see a Dygma Raise keyboard (again: not open source, but it's the la
 ![bg opacity blur](./media/hardware/redox-1.jpg)
 
 <!--
-The row staggered layout is a heritage from the old typewriters that needed such an arrangement to prevent the percussors to get stuck. Such a design is not needed anymore and doesn't fit with the human hand conformation.
+The row staggered layout is a heritage from the old typewriters that needed such an arrangement to fit the mechanical linkages between the keys and the levers. Such a design is not needed anymore and doesn't fit with the human hand conformation.
 
 The common alternative is to use the "Columnar Stagger": keys are vertically aligned and displaced following the length of the fingers.
 -->
@@ -186,7 +190,9 @@ The common alternative is to use the "Columnar Stagger": keys are vertically ali
 <!-- _footer: Pic: Redox -->
 
 <!--
-Here you can see a Redox keyboard (which I designed) featuring a "soft" columnar stagger.
+Here you can see a Redox keyboard (which I designed) featuring a columnar staggered layout.
+
+At this point there are a lot of alternatives: the Ergodox keyboard (which inspired the design of the Redox) being one, and more recently the Kirya. All of these are open hardware and open source obviously...
 -->
 
 ---
@@ -198,17 +204,20 @@ Here you can see a Redox keyboard (which I designed) featuring a "soft" columnar
 ![bg opacity blur](./media/hardware/1wubhh0.jpeg)
 
 <!--
-Finally we're at the heart of this talk.
+We're not at the heart of this talk.
 
 We'll talk about *how* we can reduced the number of keys in the following slides but let's focus on *why* this is something we want to do.
 
-- Reducing finger movement means reducing fatigue and strain on the hands -> More ergonomic
+- Reducing finger movement means reducing fatigue and strain on the hands. It is more ergonomic
+- Reducing finger movement means faster typing because your finger needs to travel less distance to press the keys you want
 - Reducing finger movement means fewer errors: you don't need to reposition your hands and thus reduce the probability of misplacing them making mistakes
 - Improving typing habits: you can't use incorrectly what doesn't exists. I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. Reducing the number of keys means that you're constrained to use your keyboard properly.
-- Portability (duh!)
+- Another advantage is the fact that is more portable
 - They look *adorable*
 
-To this we'll see in a bit how we'll move our keys to the fingers, and not the other way around.
+To sum this up: essentially the idea here is that reducing the number of keys reduces the finger movement and this has a lot of ergonomic and typing speed advantages.
+
+We'll see shortly *how* we can reduce the number of keys by moving our keys to the fingers, and not the other way around.
 -->
 
 ---
@@ -222,7 +231,7 @@ Here's a Corne keyboard by Foostan. It features everything we just talked about:
 
 All within 36 keys.
 
-We're now in "minimal" territory.
+We're now in "minimal" or "small form factor" territory.
 -->
 
 ---
@@ -236,6 +245,8 @@ We're now in "minimal" territory.
 ![bg opacity blur](./media/hardware/skeletyl.webp)
 
 <!--
+There are further improvements we can make, for example:
+
 Pronation in the forearm and wrist occurs when typing with your palms face down towards the worksurface. The majority of this turning involves the rotation of both forearm bones (ulna and radius).
 
 Sustained pronation puts pressure on the forearm muscles and tissues which reduces blood circulation and can lead to fatigue and repetitive strain injuries (“RSI”). This can be avoided by eleveting the thumb side of the hand.
@@ -251,6 +262,8 @@ Furthermore, adding concave key wells ensure the keys are reachable and mimic th
 
 <!--
 Here you can see a Skeletyl from Bastardkb. It features both a concave key well and tilting.
+
+Again, this project is completely open source and the case is 3D printable. All files are provided by the author so that you can print it yourself.
 -->
 
 ---
@@ -277,7 +290,7 @@ Keyboard firmware is the software running on the microcontrollers, responsible f
 
 In the keyboard enthusiast space we have mainly two projects for this:
 - QMK: Quantum Mechanical Keyboard firmware. Which is a mature project and the de-facto standard for custom keyboards, with a lively ecosystem of sub-projects.
-- ZMK: Zephyr Mechanical Keyboard firmware. Which is relatively new but already fairly mature (and my personal favourite). It's killer feature is the bluetootk support which QMK doesn't offer due to licensing issues.
+- ZMK: Zephyr Mechanical Keyboard firmware. Which is relatively new but already fairly mature (and my personal favourite). It's killer feature is the bluetooth support which QMK doesn't offer due to licensing issues.
 
 There are others (KMK, TMK) with their own merits but I'll not discuss them right now.
 -->
@@ -295,7 +308,7 @@ h1 {
 # Features
 
 <!--
-With these tools we can program much more smart behaviours in our keyboards: some of you might be familiar with the concept of macros. Maybe ramapping keys in more comfortable places (the caps lock doesn't deserve the place it has on the keyboard) without the need to configure every OS you connect to.
+With these tools we can program much more smart behaviours in our keyboards: some of you might be familiar with the concept of macros. Maybe ramapping keys in more comfortable places without the need to configure every OS you connect to. (The caps lock doesn't deserve the place it has on the keyboard)
 
 There are much more useful behaviours though that we'll discuss now. You should be able to find these feature in each of the previously mentioned firmwares.
 -->
@@ -319,7 +332,7 @@ ul {
 ![bg right:33% 85%](./media/firmware/layer.gif)
 
 <!--
-This is the bread and butter of custom mechanical keyboards: layers.
+Let's start with the bread and butter of custom mechanical keyboards: layers.
 
 This amounts to changing the behaviour of a key by pressing another key. You might be familiar with the FN key on some laptops which turns the function row in brightness control or media control. This is essentially it.
 
@@ -345,6 +358,8 @@ ul {
 
 <!--
 What if instead of reaching for the shift key we could just keep the key pressed a little bit longer to get the upper case version of it? This technique is called "Autoshift" and leverages the Hold-tap behaviour as you can see in the animation here.
+
+The hold-tap key will output the 'hold' behavior if it's held for a while (in the animation here the uppercase 'A'), and output the 'tap' behavior when it's tapped quickly (the lowercase 'a').
 -->
 
 ---
@@ -369,7 +384,9 @@ Let's take this concept a little further: what if we removed the need for modifi
 
 If you think about it, it is the perfect application: modifiers keys (ctrl, alt, command) are rarely pressed by themselves, you need to keep them pressed. They're *modifiers* after all.
 
-We can now put them anywhere we want, without the need for dedicated keys!
+In the animation here the F-key doubles as a Shift key: it normally outputs the F character when tapped, it becomes a SHIFT modifier when held.
+
+We can now put them anywhere we want, without the need for dedicated keys...
 -->
 
 ---
@@ -389,11 +406,11 @@ ul {
 - Great article: https://precondition.github.io/home-row-mods
 
 <!--
-Let's put them where we don't need to reach for them: on the home row!
+...let's put them where we don't need to reach for them: on the home row!
 
 Think about moving away from the home row as a cache miss: you incur in a higher latency when trying to write something that needs keys not on the home row.
 
-Modifiers are used pretty frequently (I mean: we built our carrers on CTRL-C, CTRL-V) having them where they're easier to reach is a no-brainer.
+Modifiers are used pretty frequently, so having them where they're easier to reach is a no-brainer. I mean: we built our careers on CTRL-C, CTRL-V, we should know it right?
 
 This also have a big ergonomic advantage: you don't need to place your fingers awkwardly to press common shortcuts. Everything is comfortably reachable.
 -->
@@ -442,6 +459,10 @@ ul {
 Finally, a more recent feature: combos.
 
 What if, instead of needing a dedicated caps lock button, you could just press the two shift keys together? Again... less keys.
+
+In the animation here the Q and W key behave as you would expect when pressed by themselves, but when pressed together they'll output the ESCAPE key.
+
+Keep in mind that all the behaviours we've just seen can be combined together: you can have a combo that triggers a layer using the hold-tap behaviour. These are the building blocks for the advanced layouts we see in the ergonomic keyboard community...
 -->
 
 ---
@@ -455,7 +476,7 @@ What if, instead of needing a dedicated caps lock button, you could just press t
 - and so on...
 
 <!--
-There's a lot more than this that you can achieve with these firmwares
+... and there's a lot more than this that you can achieve with these firmwares
 
 Some of you might be familiar with the "Leader key" by using Vim. Think about having it everywhere!
 Caps word is another nice feature: it's a smart caps lock, it deactivates on its own when a certain character is pressed (like the space key)
@@ -492,15 +513,13 @@ What's wrong with QWERTY?
 
 Why was it designed this way?
 
-First let's address a common misconception: allegedly the QWERTY layout was designed to avoid common bi-grams (frequently used character couples in the language) to clash the typewriter percussors i.e. it was designed to slow down fast typist to avoid the typewriter to jam.
+First let's address a common misconception: allegedly the QWERTY layout was designed to slow down fast typist to avoid the typewriter to jam.
 
 During the research for my talk I discovered that this fact was actually debunked by a group of Japanese researchers and that the QWERTY design stems from the use of the typewriter by telegraph operators (which were the first users of this new technology).
 
-Frankly speaking, I don't think the explaination got better.
-
 For instance: at the time they used to use the letter "I" to write the number "1". They decided to move it near the "8" to write the date faster (1870). Likewise they put "s", "z", "e" together because they usually got confused in the American Morse Code.
 
-In the end we're still using a layout that was design for the needs of the 19th century, we're in the 21st now!
+Frankly speaking, I don't think the explaination of how this layout was designed got better. In the end we're still using somethingn that was designed for the needs of the 19th century...
 -->
 
 ---
@@ -512,6 +531,8 @@ In the end we're still using a layout that was design for the needs of the 19th 
 ![w:800](./media/layout/dvorak_layout.png)
 
 <!--
+Can we do better? Indeed we can...
+
 An attempt to propose a better layout for writing was done by August Dvorak *in 1936*. The Dvorak layout you can see here.
 
 The principle is simple: the most common character used in the English vocaboulary are the easiest to reach. Look at the vowels on the home row.
@@ -552,7 +573,7 @@ Then we have the Colemak layout, introduced by Shai Coleman in 2006, which tries
 
 This is the most common alternative layout suggested today. A more recent variant, Colemak Mod-DH, is the most popular and suggested for newcomers.
 
-I'm still on the fence about it :)
+Personally, I'm still on the fence about it :)
 -->
 
 ---
@@ -636,9 +657,9 @@ As you can see we've covered a large part of the keys from the full-size keyboar
 <!--
 Let's start using our layers then:
 
-Let's start by putting the numbers on the left hand in a numpad layout so that it's easy to remember. To access symbols we can simply press shift or access a shortcut layer called Symbol layers.
+Let's start by putting the numbers on the left hand in a numpad layout so that it's easy to remember. To access symbols we can simply press shift while staying on the num layer or access a shortcut layer called Symbol layers. This layer is accessible by pressing the other right hand thumb key.
 
-Symbols are the same as reported in the num row, so nothing has changed from the normal keyboard. Nothing new to learn.
+Symbols are the same as reported in the num row, which means that you'll find the dollar sign above the 4 key, so nothing has changed from the normal keyboard. Nothing new to learn apart from the position of the 7 symbols here on the blank keys.
 -->
 
 ---
@@ -650,7 +671,11 @@ Symbols are the same as reported in the num row, so nothing has changed from the
 ![w:700](./media/miryoku/0_fun/miryoku-base-layer.png)
 
 <!--
-Following the same principle, let's put the function keys in the same spots as the number layer in a layer on their own. We already know where most of our keys are located.
+Following the same principle, let's put the function keys in the same spots as the number layer in a layer on their own.
+
+This means that we'll find the F1 key where the 1 key was found on the other layer. Easy to remember...
+
+We already know where most of our keys are located.
 -->
 
 ---
@@ -725,8 +750,8 @@ Finally... this is my current daily driver keyboard: a Ferris Sweep Half Swept r
 <!--
 Here's why:
 - I've always used the pinkies incorrectly especially for pressing the "shift" key which made them hurt after a day of work. With the miryoku layout I am forced to use the index and to alternate between left and right hand (which is the correct way of doing it). I also used to press the spacebar with my index finger, these keyboard made me drop this bad habit.
-- The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered (and *actually started using*) the alt/cmd+backspace combinations which improved my typing habits again.
-- Due to their placement (home-row mods) shortcuts are so much easier to type. For word-wise navigation I use the Option-Arrows to move aroun. Doing so on a normal keyboard would move my hand away, with this keyboard I can stay on the home row! And this is true for a lot of shortcuts
+- The "limitation" of they keyboard made me discover new ways of typing: I can't keep backspace pressed to delete a word if I need to because this triggers the layer, due to this I discovered the alt+backspace/cmd+backspace combinations which improved my typing habits again.
+- Due to home-row mods placement, shortcuts are so much easier to type. For word-wise navigation I use the Option-Arrows to move around. Doing so on a normal keyboard would move my hand away, with this keyboard I can stay on the home row! And this is true for a lot of shortcuts
 - Accessing symbols is much easier now since I no longer need to reposition my hands and thus I'm using Vim command that depends on these symbols much more frequently.
 - I've yet to encounter a key combination that I cannot type
 - It is just plain **fun** to use, really
