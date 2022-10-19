@@ -293,6 +293,8 @@ In the keyboard enthusiast space we have mainly two projects for this:
 - ZMK: Zephyr Mechanical Keyboard firmware. Which is relatively new but already fairly mature (and my personal favourite). It's killer feature is the bluetooth support which QMK doesn't offer due to licensing issues.
 
 There are others (KMK, TMK) with their own merits but I'll not discuss them right now.
+
+Also.. fun fact: the Eclipse Foundation is member of the Zephyr project.
 -->
 
 ---
