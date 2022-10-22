@@ -204,7 +204,7 @@ At this point there are a lot of alternatives: the Ergodox keyboard (which inspi
 ![bg opacity blur](./media/hardware/1wubhh0.jpeg)
 
 <!--
-We're not at the heart of this talk.
+We're now at the heart of this talk.
 
 We'll talk about *how* we can reduced the number of keys in the following slides but let's focus on *why* this is something we want to do.
 
