@@ -12,7 +12,7 @@ The recording of the talk is available here:
 
 <p align="center">
   <a href="https://youtu.be/unMXQTSQEak?si=cy6rs9Fst8yIoo9g">
-    <img width="840" alt="Youtube video link" src="https://github.com/user-attachments/assets/901d4a9a-0fff-40ac-8e82-8701f553064b" />
+    <img width="720" alt="Youtube video link" src="https://github.com/user-attachments/assets/901d4a9a-0fff-40ac-8e82-8701f553064b" />
   </a>
 </p>
 
