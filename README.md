@@ -11,7 +11,9 @@ In this talk I'll walk you through the deep end of the custom ergonomic mechanic
 The recording of the talk is available here:
 
 <p align="center">
-  <a href="https://youtu.be/unMXQTSQEak?si=cy6rs9Fst8yIoo9g"><img src="https://img.youtube.com/vi/unMXQTSQEak/hqdefault.jpg" /></a>
+  <a href="https://youtu.be/unMXQTSQEak?si=cy6rs9Fst8yIoo9g">
+    <img width="840" alt="immagine" src="https://github.com/user-attachments/assets/b63aff8f-427a-467e-a038-89a347bf528a" />
+  </a>
 </p>
 
 ### Detail
